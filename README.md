@@ -1,5 +1,7 @@
 # Sports Trivia Game
 
+![alt text](https://github.com/BenjaminShepherd/Trivia-Game/blob/master/trivia%20game.png)
+
 Simple HTML trivia game with countdown clock. User gets 30 seconds to answer all the questions, when the clock reaches zero, the user is told how many questions they answered correctly.
 
 
